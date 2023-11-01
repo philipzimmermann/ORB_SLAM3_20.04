@@ -359,7 +359,6 @@ class SO2 : public SO2Base<SO2<Scalar_, Options>> {
 
   /// Copy constructor
   ///
-  SOPHUS_FUNC SO2(SO2 const& other) = default;
 
   /// Copy-like constructor from OtherDerived.
   ///

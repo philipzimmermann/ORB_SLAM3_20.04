@@ -397,7 +397,6 @@ class RxSO2 : public RxSO2Base<RxSO2<Scalar_, Options>> {
 
   /// Copy constructor
   ///
-  SOPHUS_FUNC RxSO2(RxSO2 const& other) = default;
 
   /// Copy-like constructor from OtherDerived.
   ///

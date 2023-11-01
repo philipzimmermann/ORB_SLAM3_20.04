@@ -371,7 +371,6 @@ class Sim2 : public Sim2Base<Sim2<Scalar_, Options>> {
 
   /// Copy constructor
   ///
-  SOPHUS_FUNC Sim2(Sim2 const& other) = default;
 
   /// Copy-like constructor from OtherDerived.
   ///

@@ -383,7 +383,6 @@ class SE2 : public SE2Base<SE2<Scalar_, Options>> {
 
   /// Copy constructor
   ///
-  SOPHUS_FUNC SE2(SE2 const& other) = default;
 
   /// Copy-like constructor from OtherDerived
   ///

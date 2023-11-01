@@ -371,7 +371,6 @@ class Sim3 : public Sim3Base<Sim3<Scalar_, Options>> {
 
   /// Copy constructor
   ///
-  SOPHUS_FUNC Sim3(Sim3 const& other) = default;
 
   /// Copy-like constructor from OtherDerived.
   ///
